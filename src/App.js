@@ -18,9 +18,9 @@ class App extends Component {
                         </div>
                         <div className="info">
                             <div className="name">
-                                <span>Mrs </span>
-                                <span>Joy </span>
-                                <span>Noel </span>
+                                <span>Mr </span>
+                                <span>Bob </span>
+                                <span>Sanchez </span>
                             </div>
                             <div className="email">
                                 <span>joy.noel@example.com</span>
